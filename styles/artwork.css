@@ -1,0 +1,77 @@
+/*Developer: Ricardo Cotzomi, IS117-006, Spring 2024 */
+/*navigation*/
+.navbar {
+	background-color: #FFA1C9;
+}
+#nav_style1, #nav_style2, #nav_style3 {
+	color: black;
+	font-size: 1em;
+}
+
+#navbardrop {
+	color: black;
+}
+.dropdown-menu {
+	background-color: #FFA1C9;
+}
+#logo {
+	
+	width: 100%;
+	height: 200%;
+	min-height: 100px;
+	min-width: 190px;
+	
+}
+#logolink {
+	
+	width: 15%;
+	min-height: 100px;
+	min-width: 190px;
+	
+	margin-left: 15%
+}
+.navbar-nav {
+	
+	margin-right: 90%;
+}
+/*body*/
+body {
+	background-color: #DCA7FF;
+}
+
+.buttons {
+	margin: auto;
+	margin-top: 70px;
+	height: 20px;
+	width: 200px;
+	
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.next {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.round {
+  border-radius: 50%;
+}
+
+
+
+/*footer*/
+.footer {
+	position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #A4A9AD;
+    color: white;
+    text-align: center;
+    padding: 10px;
+	
+}
